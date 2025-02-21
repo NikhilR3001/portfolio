@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8bdbae26.css",
+    "main.js": "/portfolio/static/js/main.0d661dc7.js",
+    "static/media/Nikhil-resume.pdf": "/portfolio/static/media/Nikhil-resume.4fb3e5e81bc4652145c2.pdf",
+    "static/media/man.png": "/portfolio/static/media/man.58008a565ab6f0db4d93.png",
+    "static/media/pic.jpg": "/portfolio/static/media/pic.1c6925d79b7f50f4624d.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.8bdbae26.css.map": "/portfolio/static/css/main.8bdbae26.css.map",
+    "main.0d661dc7.js.map": "/portfolio/static/js/main.0d661dc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bdbae26.css",
+    "static/js/main.0d661dc7.js"
+  ]
+}
